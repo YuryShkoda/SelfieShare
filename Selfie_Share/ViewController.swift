@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  25_Selfie_Share
+//  Selfie_Share
 //
 //  Created by Yury on 1/5/18.
 //  Copyright © 2018 Yury Shkoda. All rights reserved.
